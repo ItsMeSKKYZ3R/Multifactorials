@@ -1,4 +1,4 @@
 target
 .idea
-*.lock
-*.iml
+Cargo.lock
+multifactorial.iml
